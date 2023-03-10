@@ -4,7 +4,7 @@ body {
   margin: 0;
   box-sizing: border-box;
 }
-body {
+/* body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,4 +37,4 @@ body {
     transform: rotate(360deg);
     color: rgb(0, 255, 0);
   }
-}
+} */
